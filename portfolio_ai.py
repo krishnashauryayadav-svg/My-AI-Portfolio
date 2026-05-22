@@ -1,7 +1,7 @@
 import streamlit as st
 
 # ⚙️ 1. PAGE CONFIGURATION & THEME INJECTION
-st.set_page_config(page_title="Krishna Yadav | AI & ML Engineer", page_icon="🤖", layout="wide")
+st.set_page_config(page_title="Krishna Shaurya Yadav | AI & ML Engineer", page_icon="🤖", layout="wide")
 
 # 🪐 Custom Dark/Neon CSS for Mind-Blowing Visual Experience
 st.markdown("""
@@ -26,7 +26,7 @@ st.markdown("""
 # =====================================================================
 # 🛸 HEADER SECTION
 # =====================================================================
-st.title("🛸 KRISHNA YADAV // AI & ML PRODIGY")
+st.title("🛸 KRISHNA SHAURYA YADAV // AI & ML PRODIGY")
 st.subheader("Aspiring Data Scientist & ML Engineer | India 🇮🇳")
 st.markdown("#### *\"Data → Insight → Impact 🚀\"*")
 
@@ -92,7 +92,7 @@ st.markdown("""
 # Project 3: Hacker AI & Smart News Aggregator
 st.markdown("""
 <div class="card card-hacker">
-    <h2>🛡️ Project 3: AI-Powered Smart News Aggregator & Auditor</h2>
+    <h2>🛡️ Project 3: AI-Powered Smart News Aggregator & Auditor (In Development)</h2>
     <p><b>The Vision:</b> Automating telemetry scraping setups across major technical indices using BeautifulSoup and filtering data structures locally via language model pipelines.</p>
     <p>📢 Features localized breaking news notifications for hardware updates like NVIDIA RTX 5090 launches and active cyber security leaks.</p>
 </div>
@@ -109,4 +109,4 @@ st.markdown("""
 """)
 
 st.write("---")
-st.caption("Designed and Maintained by Krishna Yadav. Built with Streamlit 🚀")
+st.caption("Designed and Maintained by Krishna Shaurya Yadav. Built with Streamlit 🚀")
