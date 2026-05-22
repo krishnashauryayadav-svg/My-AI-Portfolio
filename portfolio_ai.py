@@ -16,7 +16,7 @@ st.markdown("""
     .stButton>button:hover { background-color: #FF007F; color: #FFFFFF; transform: scale(1.05); }
     .card {
         background: #1E2633; padding: 20px; border-radius: 12px;
-        border-left: 5px solid #00FFCC; margin-bottom: 20px;
+        border-left: 5px solid #00FFCC; margin-bottom: 20px; color green;
     }
     .card-hacker { border-left: 5px solid #FF007F; }
     .card-lux { border-left: 5px solid #FFFF00; }
